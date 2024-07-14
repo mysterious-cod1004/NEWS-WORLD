@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mysterious-cod1004/News-World/static/css/main.19f73d89.css",
+    "main.js": "/mysterious-cod1004/News-World/static/js/main.a4d21a0b.js",
+    "index.html": "/mysterious-cod1004/News-World/index.html",
+    "main.19f73d89.css.map": "/mysterious-cod1004/News-World/static/css/main.19f73d89.css.map",
+    "main.a4d21a0b.js.map": "/mysterious-cod1004/News-World/static/js/main.a4d21a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f73d89.css",
+    "static/js/main.a4d21a0b.js"
+  ]
+}
